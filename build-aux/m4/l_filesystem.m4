@@ -41,7 +41,7 @@ AC_DEFUN([CHECK_FILESYSTEM], [
             AC_MSG_FAILURE([cannot figure out how to use std::filesystem])
           ])
         ])
-    ])
+    ])d
 
   AC_LANG_POP
 ])
